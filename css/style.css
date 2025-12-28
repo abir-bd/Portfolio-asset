@@ -1,0 +1,12 @@
+html { scroll-behavior: smooth; }
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: "Roboto Slab", serif;
+}
+h1,h2,h3,h4,h5,h6,p,ul,ol,li,a,span{
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto Slab", serif;
+}
